@@ -1,5 +1,5 @@
 Let me create the contracts file and then build the backend.
-Action: file_editor create /app/contracts.md --file-text "# API Contracts — Daniel Mercer Portfolio
+Action: file_editor create /app/contracts.md --file-text "# API Contracts — Daniel Gaudreault Portfolio
 
 ## Overview
 The frontend currently runs on mock data in `/app/frontend/src/mock.js`. This doc defines what moves to the backend and how integration happens.
